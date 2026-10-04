@@ -16,10 +16,8 @@ A reusable Agent Skill for evidence-driven production hardening of existing Next
 
 ## Install with skills CLI
 
-Once this repository is public on GitHub:
-
 ```bash
-npx skills add OWNER/REPO
+npx skills add kalyangupta12/production-hardener-skill
 ```
 
 The skills.sh ecosystem installs skills from GitHub repositories through the skills CLI.
